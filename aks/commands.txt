@@ -84,7 +84,7 @@ Install the Kubernetes CLI
 az aks install-cli
 --
 Connect to cluster using kubectl
-az aks get-credentials --resource-group myResourceGroup --name myAKSCluster
+
 
 To verify;
 kubectl get nodes
