@@ -3,6 +3,8 @@ Deploying .Net Microservices into Kubernetes, and moving deployments to the clou
 
 [![Build Status](https://dev.azure.com/imperotechne12/Elvis%20Rundevops/_apis/build/status/shoppingclient-pipeline?branchName=main)](https://dev.azure.com/imperotechne12/Elvis%20Rundevops/_build/latest?definitionId=16&branchName=main)
 
+[![Build Status](https://dev.azure.com/imperotechne12/Elvis%20Rundevops/_apis/build/status/shoppingapi-pipeline?branchName=main)](https://dev.azure.com/imperotechne12/Elvis%20Rundevops/_build/latest?definitionId=15&branchName=main)
+
 **UDEMY COURSE WITH DISCOUNTED - Step by Step Development of this repository -> https://www.udemy.com/course/deploying-net-microservices-with-k8s-aks-and-azure-devops/?couponCode=SEPTEMBER2021**
 
 **Check Explanation of this Repository on Medium -> https://mehmetozkaya.medium.com/deploying-net-microservices-to-azure-kubernetes-services-aks-and-automating-with-azure-devops-c50bdd51b702**
