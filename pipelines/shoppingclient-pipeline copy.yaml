@@ -8,7 +8,7 @@ trigger:
       - main
     paths:
       include:
-      - Shopping/Shopping.client/*
+      - Shopping/Shopping.Client/*
       - aks/shoppingclient.yaml
 
 resources:
